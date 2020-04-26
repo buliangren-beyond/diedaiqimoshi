@@ -1,2 +1,1 @@
-# diedaiqimoshi
-迭代器模式
+设计之迭代器模式
